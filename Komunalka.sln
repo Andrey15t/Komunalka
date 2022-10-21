@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komunalka", "Komunalka\Komunalka.csproj", "{14F27646-E438-468E-A107-2D76657F41E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomunalkaCore", "KomunalkaCore\KomunalkaCore.csproj", "{4B470469-7D27-4047-BBC9-135E9ED49EA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{14F27646-E438-468E-A107-2D76657F41E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F27646-E438-468E-A107-2D76657F41E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F27646-E438-468E-A107-2D76657F41E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B470469-7D27-4047-BBC9-135E9ED49EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B470469-7D27-4047-BBC9-135E9ED49EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B470469-7D27-4047-BBC9-135E9ED49EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B470469-7D27-4047-BBC9-135E9ED49EA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF7EC54-52A9-4462-8177-9EE730E88ACC}
 	EndGlobalSection
 EndGlobal
